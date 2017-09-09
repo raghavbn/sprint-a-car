@@ -3,8 +3,9 @@ Hotels Top Destination Page.
 
 # Server side rendering sample Hotels.com react page.
 To run the application:
-1. install node on you system - https://nodejs.org/en/download/
-2. run npm install to download all the dependancies (npm packages)
-3. run npm start to start the application on http://localhost:3000
+1. Clone or download this application.
+2. install node on you system - https://nodejs.org/en/download/
+3. run npm install to download all the dependancies (npm packages)
+4. run npm start to start the application on http://localhost:3000
 
 
