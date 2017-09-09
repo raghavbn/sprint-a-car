@@ -18,8 +18,8 @@ class Accordion extends React.Component {
     }
     render () {
         return (
-            <div onClick={this.onToggleAccordion()}>
-                <button className="accordion">
+            <div>
+                <button className="accordion" onClick={this.onToggleAccordion.bind(this)}>
                     <div>{this.state.isOpen ? <IconArrowOpened/> : <IconArrowClosed/> }
                         <span className = "color-blue txt-lg bold">{this.props.location}</span>
                     </div>
