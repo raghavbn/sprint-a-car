@@ -53,7 +53,7 @@ const hotelInfo = [
             {
                 stars: '4',
                 originalPrice: '£74',
-                hotelName: 'Hilton Garden Inn New York/West 35th Street'
+                hotelName: 'Hilton Garden Inn West 35th Street'
             },
             {
                 stars: '3',
