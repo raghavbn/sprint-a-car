@@ -56,7 +56,7 @@
     "http-server": "^0.9.0",
     "react-hot-loader": "^1.3.0",
     "webpack": "^1.13.2",
-    "webpack-dev-server": "^1.14.1",
+    "webpack-dev-server": ">=3.1.11",
     "styled-components": "^2.1.2",
     "jest-cli": "^18.1.0",
     "enzyme": "^2.8.2",
